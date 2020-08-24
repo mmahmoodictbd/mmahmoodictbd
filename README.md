@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mmahmoodictbd/mmahmoodictbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Java Backend
-- 🌱 I’m currently learning ... anything interesting
-- 💬 Ask me about ... programming related stuff
-- 📫 How to reach me: [LinkedIn message](https://www.linkedin.com/in/mmahmoodictbd/)
+- 🔭  &nbsp;&nbsp; I’m currently working on ... Customer Journey Orchestration Engine
+- 🌱  &nbsp;&nbsp; I’m writing on ... [everything I want to delete from my brain](http://unloadbrain.com/)
+- 💬  &nbsp;&nbsp; Ask me about ... programming related stuff
+- 📫  &nbsp;&nbsp; How to reach me: [LinkedIn message](https://www.linkedin.com/in/mmahmoodictbd/)
